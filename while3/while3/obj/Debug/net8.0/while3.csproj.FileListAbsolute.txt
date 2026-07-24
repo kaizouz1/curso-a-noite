@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\bin\Debug\net8.0\while3.exe
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\bin\Debug\net8.0\while3.deps.json
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\bin\Debug\net8.0\while3.runtimeconfig.json
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\bin\Debug\net8.0\while3.dll
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\bin\Debug\net8.0\while3.pdb
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\obj\Debug\net8.0\while3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\obj\Debug\net8.0\while3.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\obj\Debug\net8.0\while3.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\obj\Debug\net8.0\while3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\obj\Debug\net8.0\while3.dll
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\obj\Debug\net8.0\refint\while3.dll
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\obj\Debug\net8.0\while3.pdb
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\obj\Debug\net8.0\while3.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Kaizou C#\while3\while3\obj\Debug\net8.0\ref\while3.dll
